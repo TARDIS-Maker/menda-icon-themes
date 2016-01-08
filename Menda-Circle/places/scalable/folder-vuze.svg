@@ -14,7 +14,7 @@
    height="48"
    id="svg865"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="folder-vuze.svg">
   <defs
      id="defs867">
@@ -170,15 +170,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.0339581"
-     inkscape:cx="-13.554642"
-     inkscape:cy="23.065115"
+     inkscape:cx="20.649634"
+     inkscape:cy="25.168291"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1141"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -309,7 +309,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -327,9 +327,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#27ae60;fill-opacity:1;stroke:none"
+       style="fill:#1a80b6;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -357,7 +357,7 @@
        id="rect3849"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#27ae60;fill-opacity:1;stroke:none"
+       style="fill:#1a80b6;fill-opacity:1;stroke:none"
        id="rect3851"
        width="43.999996"
        height="32.965298"

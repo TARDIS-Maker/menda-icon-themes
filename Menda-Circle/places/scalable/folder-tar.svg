@@ -14,7 +14,7 @@
    height="48"
    id="svg865"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="folder-tar.svg">
   <defs
      id="defs867">
@@ -88,15 +88,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.2983092"
-     inkscape:cx="-6.6830658"
+     inkscape:cx="-27.372789"
      inkscape:cy="14.984577"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1141"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -227,7 +227,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -241,9 +241,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#27ae60;fill-opacity:1;stroke:none"
+       style="fill:#1a80b6;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -262,9 +262,9 @@
        height="32.965298"
        width="43.999996"
        id="folderFront"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <path
-       style="fill:#27ae60;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#1a80b6;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3201"
        inkscape:connector-curvature="0"
        d="m 19.724664,10.109343 0,23.838299 c 0,0.72035 0.9534,1.30027 2.137668,1.30027 l 4.275334,0 c 1.184268,0 2.137668,-0.57992 2.137668,-1.30027 l 0,-23.838299 -2.850224,0 0,0.866847 -2.850222,0 0,-0.866847 -2.850224,0 z" />

@@ -7,152 +7,16 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    id="svg865"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-blue.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder.svg">
   <defs
-     id="defs867">
-    <linearGradient
-       x1="45"
-       y1="92"
-       x2="45"
-       y2="7"
-       id="linearGradient3986"
-       xlink:href="#ButtonShadow"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="45.447727"
-       y1="80.471962"
-       x2="45.447727"
-       y2="7.0165396"
-       id="ButtonShadow"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0058652,0,0,0.994169,0,12)">
-      <stop
-         id="stop3750"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3752"
-         style="stop-color:#000000;stop-opacity:0.58823532"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="45"
-       y1="92"
-       x2="45"
-       y2="7"
-       id="linearGradient3977"
-       xlink:href="#ButtonShadow"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="45.447727"
-       y1="80.471962"
-       x2="45.447727"
-       y2="7.0165396"
-       id="linearGradient3070"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0058652,0,0,0.994169,0,12)">
-      <stop
-         id="stop3072"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3074"
-         style="stop-color:#000000;stop-opacity:0.58823532"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="45"
-       y1="92"
-       x2="45"
-       y2="7"
-       id="linearGradient3969"
-       xlink:href="#ButtonShadow"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="45.447727"
-       y1="80.471962"
-       x2="45.447727"
-       y2="7.0165396"
-       id="linearGradient3077"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0058652,0,0,0.994169,0,12)">
-      <stop
-         id="stop3079"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3081"
-         style="stop-color:#000000;stop-opacity:0.58823532"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="45"
-       y1="92"
-       x2="45"
-       y2="7"
-       id="linearGradient3961"
-       xlink:href="#ButtonShadow"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="45.447727"
-       y1="80.471962"
-       x2="45.447727"
-       y2="7.0165396"
-       id="linearGradient3084"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0058652,0,0,0.994169,0,12)">
-      <stop
-         id="stop3086"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3088"
-         style="stop-color:#000000;stop-opacity:0.58823532"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="43"
-       y1="91"
-       x2="43"
-       y2="7"
-       id="linearGradient3952"
-       xlink:href="#ButtonShadow"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="45.447727"
-       y1="80.471962"
-       x2="45.447727"
-       y2="7.0165396"
-       id="linearGradient3091"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0058652,0,0,0.994169,0,12)">
-      <stop
-         id="stop3093"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3095"
-         style="stop-color:#000000;stop-opacity:0.58823532"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       y2="7"
-       x2="43"
-       y1="91"
-       x1="43"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3103"
-       xlink:href="#ButtonShadow"
-       inkscape:collect="always" />
-  </defs>
+     id="defs867" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -160,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.775946"
-     inkscape:cx="48.576144"
-     inkscape:cy="8.8295451"
+     inkscape:zoom="8.074902"
+     inkscape:cx="-37.059127"
+     inkscape:cy="20.004864"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1920"
+     inkscape:window-height="1141"
      inkscape:window-x="0"
-     inkscape:window-y="-3"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -308,55 +172,33 @@
      inkscape:groupmode="layer"
      id="folderLayer"
      inkscape:label="folder">
-    <g
-       id="g3910"
-       transform="matrix(1.0181857,0,0,1.0181857,-0.43645647,-0.41778786)"
-       style="opacity:0.3" />
-    <g
-       id="g3053"
-       transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
-      <rect
-         style="fill:#3498db;fill-opacity:1;stroke:none"
-         id="folderTab"
-         width="18"
-         height="10"
-         x="4"
-         y="6.9996953" />
-      <rect
-         y="9"
-         x="4"
-         height="30"
-         width="40"
-         id="folderBackground"
-         style="fill:#3498db;fill-opacity:1;stroke:none" />
-      <rect
-         y="10.9998"
-         x="6"
-         height="27.999756"
-         width="35.999992"
-         id="folderPaper"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#3498db;fill-opacity:1;stroke:none"
-         id="folderFront"
-         width="43.999996"
-         height="28.000008"
-         x="2"
-         y="12.999983" />
-    </g>
     <rect
-       y="7.6680799"
-       x="6"
-       height="32.965004"
+       y="2.9586298"
+       x="4"
+       height="11.773318"
+       width="18"
+       id="folderTab"
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#1a80b6;fill-opacity:1;stroke:none"
+       id="folderBackground"
+       width="40"
+       height="35.319954"
+       x="4"
+       y="5.313652" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="folderPaper"
        width="35.999992"
-       id="rect3849"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       height="32.965004"
+       x="6"
+       y="7.6680799" />
     <rect
-       style="fill:#3498db;fill-opacity:1;stroke:none"
-       id="rect3851"
-       width="43.999996"
-       height="32.965298"
+       y="10.022959"
        x="2"
-       y="10.022959" />
+       height="32.965298"
+       width="43.999996"
+       id="folderFront"
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
   </g>
 </svg>

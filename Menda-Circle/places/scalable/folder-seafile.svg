@@ -13,7 +13,7 @@
    height="48"
    id="svg865"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="folder-seafile.svg">
   <defs
      id="defs867" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.3955635"
-     inkscape:cx="-26.377539"
-     inkscape:cy="20.969135"
+     inkscape:cx="9.9161862"
+     inkscape:cy="20.756269"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1920"
+     inkscape:window-height="1141"
      inkscape:window-x="0"
-     inkscape:window-y="-3"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -178,9 +178,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#27ae60;fill-opacity:1;stroke:none"
+       style="fill:#1a80b6;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -199,7 +199,7 @@
        height="32.965298"
        width="43.999996"
        id="folderFront"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <g
        id="g3882"
        transform="matrix(0.39409474,0,0,0.33763388,5.0365653,9.1341047)">

@@ -13,7 +13,7 @@
    height="48"
    id="svg865"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="folder-steam.svg">
   <defs
      id="defs867" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.074902"
-     inkscape:cx="-10.062856"
+     inkscape:cx="-28.762773"
      inkscape:cy="19.408861"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1141"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -164,7 +164,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,9 +178,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#27ae60;fill-opacity:1;stroke:none"
+       style="fill:#1a80b6;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -199,14 +199,14 @@
        height="32.965298"
        width="43.999996"
        id="folderFront"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <g
        id="g3057"
        transform="matrix(0.56181681,0,0,0.62171871,-10.852851,-16.322295)"
        style="fill:#ffffff">
       <path
          transform="matrix(1.283852,0,0,1.095473,107.77473,40.52972)"
-         d="m -24.805994,19.567579 c 0,2.522597 -2.044969,4.567566 -4.567566,4.567566 -2.522597,0 -4.567566,-2.044969 -4.567566,-4.567566 0,-2.522597 2.044969,-4.567566 4.567566,-4.567566 2.522597,0 4.567566,2.044969 4.567566,4.567566 z"
+         d="m -24.805994,19.567579 a 4.5675659,4.5675659 0 0 1 -4.567566,4.567566 4.5675659,4.5675659 0 0 1 -4.567566,-4.567566 4.5675659,4.5675659 0 0 1 4.567566,-4.567566 4.5675659,4.5675659 0 0 1 4.567566,4.567566 z"
          sodipodi:ry="4.5675659"
          sodipodi:rx="4.5675659"
          sodipodi:cy="19.567579"
@@ -226,7 +226,7 @@
          inkscape:connector-curvature="0" />
       <path
          transform="matrix(0.98449261,0,0,0.97652563,97.184989,45.690193)"
-         d="m -40.25,33.375 c 0,2.485281 -2.014719,4.5 -4.5,4.5 -2.485281,0 -4.5,-2.014719 -4.5,-4.5 0,-2.485281 2.014719,-4.5 4.5,-4.5 2.485281,0 4.5,2.014719 4.5,4.5 z"
+         d="m -40.25,33.375 a 4.5,4.5 0 0 1 -4.5,4.5 4.5,4.5 0 0 1 -4.5,-4.5 4.5,4.5 0 0 1 4.5,-4.5 4.5,4.5 0 0 1 4.5,4.5 z"
          sodipodi:ry="4.5"
          sodipodi:rx="4.5"
          sodipodi:cy="33.375"

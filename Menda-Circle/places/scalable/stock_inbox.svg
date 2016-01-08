@@ -13,8 +13,8 @@
    height="48"
    id="svg865"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="mail-inbox.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mail-folder-inbox.svg">
   <defs
      id="defs867" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.074902"
-     inkscape:cx="10.043259"
+     inkscape:cx="-8.6566583"
      inkscape:cy="28.296138"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1141"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -164,7 +164,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,9 +178,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#27ae60;fill-opacity:1;stroke:none"
+       style="fill:#1a80b6;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -199,7 +199,7 @@
        height="32.965298"
        width="43.999996"
        id="folderFront"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#1a80b6;fill-opacity:1;stroke:none" />
     <g
        transform="matrix(0.52745067,0,0,0.66563062,11.366243,11.033898)"
        id="layer1"
@@ -241,7 +241,7 @@
       <path
          transform="matrix(0.65886806,0.45647718,-0.65886806,0.45647718,700.22113,-443.5683)"
          inkscape:transform-center-y="1.5000062"
-         d="M 24.314927,1034.1681 8.7652424,1030.0016 20.148402,1018.6185 z"
+         d="M 24.314927,1034.1681 8.7652424,1030.0016 20.148402,1018.6185 Z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="true"
